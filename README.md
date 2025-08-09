@@ -12,7 +12,9 @@ ________________________________________________________________________________
 
 🔍 Reporte HTML de Ejecución: http://localhost:63342/Tarea4_Selenium/reporte.html?_ijt=kmtc3i5152jtjucltlij3fjldf&_ij_reload=RELOAD_ON_SAVE
 
-📋 Tablero Jira del Proyecto: https://rozennyv.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiZGVhZGQ4ZmJlMjhjNGYxZGFlMmU5NTA4ZTgwMWI3OGQiLCJwIjoiaiJ9
+📋 Historias de usuario : https://rozennyv.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiZGVhZGQ4ZmJlMjhjNGYxZGFlMmU5NTA4ZTgwMWI3OGQiLCJwIjoiaiJ9
+
+📽️ Video demostrativo: https://1drv.ms/f/c/dce57cf10bc7ec63/EiIjgfhMajxClVDVwbNj5lIBvPeZPbUfADnvp5_ZZlK0yg?e=AwjYyS
 
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
