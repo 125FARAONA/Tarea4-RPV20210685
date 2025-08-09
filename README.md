@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 📄 Enlaces Importantes
 
-🔍 Reporte HTML de Ejecución: http://localhost:63342/Tarea4_Selenium/reporte.html?_ijt=al5os9tgrn2j5ifun2vu71vsti&_ij_reload=RELOAD_ON_SAVE
+🔍 Reporte HTML de Ejecución: http://localhost:63342/Tarea4_Selenium/reporte.html?_ijt=kmtc3i5152jtjucltlij3fjldf&_ij_reload=RELOAD_ON_SAVE
 
 📋 Tablero Jira del Proyecto: https://rozennyv.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiZGVhZGQ4ZmJlMjhjNGYxZGFlMmU5NTA4ZTgwMWI3OGQiLCJwIjoiaiJ9
 
