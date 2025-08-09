@@ -48,6 +48,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
 ✅ Conclusión
+
 Este proyecto representa un paso importante en mi formación como futura profesional en el área de tecnología y desarrollo de software, aplicando buenas prácticas y herramientas utilizadas en entornos laborales reales.
 
 
